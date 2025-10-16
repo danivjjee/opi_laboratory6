@@ -7,6 +7,7 @@ using namespace std;
 int main() {
     setlocale(LC_ALL, "");
 
+    cout << "Hello world" << endl;
     unsigned int number;
     cout << "Введіть число: " << endl;
     cin >> number;
