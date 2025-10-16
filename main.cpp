@@ -8,7 +8,7 @@ int main() {
     setlocale(LC_ALL, "");
 
     unsigned int number;
-    cout << "Введіть число: ";
+    cout << "Введіть число: " << endl;
     cin >> number;
 
     unsigned int firstDigit = number / 100;
