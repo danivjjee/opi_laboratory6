@@ -1,4 +1,5 @@
 #include <iostream>
+#include "outputGreetings.h"
 
 char* outputGreetings() {
     char name[15];
