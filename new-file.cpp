@@ -1,5 +1,5 @@
 #include <iostream>
 
 void newFunction() {
-    std::cout << "Hello World";
+    std::cout << "Hello\nWorld";
 }
