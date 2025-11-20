@@ -1,4 +1,4 @@
 /CMakeLists.txt
 .idea
-main
+main.exe
 cmake-build-debug
