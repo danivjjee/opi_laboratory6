@@ -1,1 +1,1 @@
-void outputGreetings();
+int outputGreetings();
